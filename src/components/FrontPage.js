@@ -20,7 +20,7 @@ const FrontPage = () => {
   return (
     <div className="login-page">
       <div className="login-left">
-        <h1 className="brand-name">Edu Learn</h1>
+        <h1 className="brand-name">Edify</h1>
         <div className="login-card">
           <form className="login-form" onSubmit={handleLogin}>
             <label>Username</label>
