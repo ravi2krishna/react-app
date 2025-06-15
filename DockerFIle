@@ -1,4 +1,4 @@
-vi Dockerfile
+
 
 # - Comments ignores the line
 # FROM - is used to set BASE image
