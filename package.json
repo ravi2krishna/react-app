@@ -1,6 +1,6 @@
 {
   "name": "lms-react",
-  "version": "1.1",
+  "version": "2.1",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
