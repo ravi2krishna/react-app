@@ -1,3 +1,5 @@
+vi Dockerfile
+
 # - Comments ignores the line
 # FROM - is used to set BASE image
 # FROM is used to set BASE functionality
@@ -6,4 +8,4 @@
 FROM nginx
 
 # COPY - is used to copy files from HOST to Above Image
-COPY . /usr/share/nginx/html
+COPY . /usr/share/nginx/htm
