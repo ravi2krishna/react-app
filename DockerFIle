@@ -8,4 +8,4 @@
 FROM nginx
 
 # COPY - is used to copy files from HOST to Above Image
-COPY . /usr/share/nginx/htm
+COPY . /usr/share/nginx/html
