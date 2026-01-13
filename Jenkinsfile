@@ -40,7 +40,7 @@ pipeline {
            }
         }
         // Stage For Cleaning Up 
-        stage('Build Artifact') {
+        stage('Cleanup') {
             steps {
                 cleanWs()
             }
