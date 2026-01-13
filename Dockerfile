@@ -2,7 +2,7 @@
 # - Docker Directives/instructions will be in UPPER CASE
 
 # FROM - Set Base Image
-FROM node:20 AS builder
+FROM node:20 as builder
 
 # LABEL - add custom data, just some key values
 LABEL maintainer="Frontend API Maintainers <ravi2krishna@gmail.com>"
